@@ -13,14 +13,15 @@
       ]
     },
     {
-      "name": "Banana",
-      "price": "€2.00 kg",
-      "origin": "Brazil",
-      "season": "Summer",
+      "name": "Strawberry",
+      "price": "€3.00 kg",
+      "origin": "Spain",
+      "season": "Spring",
       "badget": [
         {
           "bio": "Bio",
-          "fairtrade": "Fairtrade"
+          "fairtrade": "Fairtrade",
+          "sale": "Sale"
         }
       ]
     },
