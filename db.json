@@ -2,6 +2,7 @@
   "fruits": [
     {
       "name": "Banana",
+      "image": "https://live.staticflickr.com/65535/52387343112_8df28eaa00_z.jpg",
       "price": "€2.00 kg",
       "origin": "Brazil",
       "season": "Summer",
@@ -14,6 +15,7 @@
     },
     {
       "name": "Strawberry",
+      "image": "https://live.staticflickr.com/65535/52388576634_c895209444_z.jpg",
       "price": "€3.00 kg",
       "origin": "Spain",
       "season": "Spring",
@@ -26,8 +28,9 @@
       ]
     },
     {
-      "name": "Banana",
-      "price": "€2.00 kg",
+      "name": "Papaya",
+      "image": "https://live.staticflickr.com/65535/52388576659_e6056b3228_z.jpg",
+      "price": "€8.00 kg",
       "origin": "Brazil",
       "season": "Summer",
       "badget": [
@@ -38,9 +41,10 @@
       ]
     },
     {
-      "name": "Banana",
-      "price": "€2.00 kg",
-      "origin": "Brazil",
+      "name": "Cherrie",
+      "image": "https://live.staticflickr.com/65535/52388512943_f9cf2b8139_b.jpg",
+      "price": "€0.99 kg",
+      "origin": "Germany",
       "season": "Summer",
       "badget": [
         {
@@ -50,9 +54,10 @@
       ]
     },
     {
-      "name": "Banana",
-      "price": "€2.00 kg",
-      "origin": "Brazil",
+      "name": "Raspberry",
+      "image": "https://live.staticflickr.com/65535/52388561888_c8a893bc4a_k.jpg",
+      "price": "€2.00 Unit",
+      "origin": "Germany",
       "season": "Summer",
       "badget": [
         {
@@ -62,14 +67,14 @@
       ]
     },
     {
-      "name": "Banana",
+      "name": "Peach",
+      "image": "https://live.staticflickr.com/65535/52388625059_c48ad86133_k.jpg",
       "price": "€2.00 kg",
-      "origin": "Brazil",
+      "origin": "Peru",
       "season": "Summer",
       "badget": [
         {
-          "bio": "Bio",
-          "fairtrade": "Fairtrade"
+          "bio": "Bio"
         }
       ]
     }
