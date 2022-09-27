@@ -1,0 +1,76 @@
+{
+  "fruits": [
+    {
+      "name": "Banana",
+      "price": "€2.00 kg",
+      "origin": "Brazil",
+      "season": "Summer",
+      "badget": [
+        {
+          "bio": "Bio",
+          "fairtrade": "Fairtrade"
+        }
+      ]
+    },
+    {
+      "name": "Banana",
+      "price": "€2.00 kg",
+      "origin": "Brazil",
+      "season": "Summer",
+      "badget": [
+        {
+          "bio": "Bio",
+          "fairtrade": "Fairtrade"
+        }
+      ]
+    },
+    {
+      "name": "Banana",
+      "price": "€2.00 kg",
+      "origin": "Brazil",
+      "season": "Summer",
+      "badget": [
+        {
+          "bio": "Bio",
+          "fairtrade": "Fairtrade"
+        }
+      ]
+    },
+    {
+      "name": "Banana",
+      "price": "€2.00 kg",
+      "origin": "Brazil",
+      "season": "Summer",
+      "badget": [
+        {
+          "bio": "Bio",
+          "fairtrade": "Fairtrade"
+        }
+      ]
+    },
+    {
+      "name": "Banana",
+      "price": "€2.00 kg",
+      "origin": "Brazil",
+      "season": "Summer",
+      "badget": [
+        {
+          "bio": "Bio",
+          "fairtrade": "Fairtrade"
+        }
+      ]
+    },
+    {
+      "name": "Banana",
+      "price": "€2.00 kg",
+      "origin": "Brazil",
+      "season": "Summer",
+      "badget": [
+        {
+          "bio": "Bio",
+          "fairtrade": "Fairtrade"
+        }
+      ]
+    }
+  ]
+}
