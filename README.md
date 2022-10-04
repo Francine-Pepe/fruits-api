@@ -13,4 +13,4 @@ heroku login
 
 heroku git:remote -a fruits-api-project
 
-git push heroku master
+git push heroku main
