@@ -1,8 +1,7 @@
 {
   "fruits": [
     {
-      "name": "Banana",
-      "image": "https://live.staticflickr.com/65535/52387343112_8df28eaa00_z.jpg",
+      "name": "Bananhttps://live.staticflickr.com/65535/52404278814_55b34ff31e_o.jpg",
       "price": "€2.00 kg",
       "origin": "Brazil",
       "season": "Summer",
@@ -15,7 +14,7 @@
     },
     {
       "name": "Strawberry",
-      "image": "https://live.staticflickr.com/65535/52388576634_c895209444_z.jpg",
+      "image": "https://live.staticflickr.com/65535/52403484832_2560f287b0_o.jpg",
       "price": "€3.00 kg",
       "origin": "Spain",
       "season": "Spring",
@@ -29,7 +28,7 @@
     },
     {
       "name": "Papaya",
-      "image": "https://live.staticflickr.com/65535/52388576659_e6056b3228_z.jpg",
+      "image": "https://live.staticflickr.com/65535/52403484872_22ec5b1fac_o.jpg",
       "price": "€8.00 kg",
       "origin": "Brazil",
       "season": "Summer",
@@ -42,7 +41,7 @@
     },
     {
       "name": "Cherrie",
-      "image": "https://live.staticflickr.com/65535/52388512943_f9cf2b8139_b.jpg",
+      "image": "https://live.staticflickr.com/65535/52404278779_94656222ed_o.jpg",
       "price": "€0.99 kg",
       "origin": "Germany",
       "season": "Summer",
@@ -55,7 +54,7 @@
     },
     {
       "name": "Raspberry",
-      "image": "https://live.staticflickr.com/65535/52388561888_c8a893bc4a_k.jpg",
+      "image": "https://live.staticflickr.com/65535/52404491763_7166c79e16_o.jpg",
       "price": "€2.00 Unit",
       "origin": "Germany",
       "season": "Summer",
@@ -68,10 +67,88 @@
     },
     {
       "name": "Peach",
-      "image": "https://live.staticflickr.com/65535/52388625059_c48ad86133_k.jpg",
+      "image": "https://live.staticflickr.com/65535/52404491793_08a2470178_o.jpg",
       "price": "€2.00 kg",
       "origin": "Peru",
       "season": "Summer",
+      "badget": [
+        {
+          "bio": "Bio"
+        }
+      ]
+    },
+    {
+      "name": "Mango",
+      "image": "https://live.staticflickr.com/65535/52404278734_fb6287e47f_o.jpg",
+      "price": "€2.00 Unit",
+      "origin": "Turkey",
+      "season": "Summer",
+      "badget": [
+        {
+          "bio": "Bio",
+          "fairtrade": "Fairtrade"
+        }
+      ]
+    },
+    {
+      "name": "Maracuja",
+      "image": "https://live.staticflickr.com/65535/52404278729_b87e4a1232_o.jpg",
+      "price": "€3.00 kg",
+      "origin": "Spain",
+      "season": "Spring",
+      "badget": [
+        {
+          "bio": "Bio",
+          "fairtrade": "Fairtrade",
+          "sale": "Sale"
+        }
+      ]
+    },
+    {
+      "name": "Birne",
+      "image": "https://live.staticflickr.com/65535/52404426745_d0d0f3637f_o.jpg",
+      "price": "€1.50 kg",
+      "origin": "Germany",
+      "season": "Winter",
+      "badget": [
+        {
+          "bio": "Bio",
+          "fairtrade": "Fairtrade"
+        }
+      ]
+    },
+    {
+      "name": "Mandarine",
+      "image": "https://live.staticflickr.com/65535/52403484922_401d39ec5f_o.jpg",
+      "price": "€0.99 kg",
+      "origin": "Germany",
+      "season": "Autumn",
+      "badget": [
+        {
+          "bio": "Bio",
+          "fairtrade": "Fairtrade"
+        }
+      ]
+    },
+    {
+      "name": "Ananas",
+      "image": "https://live.staticflickr.com/65535/52403992231_9266f8f2ca_o.jpg",
+      "price": "€2.00 Unit",
+      "origin": "Portugal",
+      "season": "Autumn",
+      "badget": [
+        {
+          "bio": "Bio",
+          "fairtrade": "Fairtrade"
+        }
+      ]
+    },
+    {
+      "name": "Apple",
+      "image": "https://live.staticflickr.com/65535/52403485037_c6c071457c_o.jpg",
+      "price": "€2.50 kg",
+      "origin": "Germany",
+      "season": "Winter",
       "badget": [
         {
           "bio": "Bio"
