@@ -6,12 +6,7 @@
       "price": "€2.00 kg",
       "origin": "Brazil",
       "season": "Summer",
-      "badget": [
-        {
-          "bio": "Bio",
-          "fairtrade": "Fairtrade"
-        }
-      ]
+      "badget": [{ "badget": "Bio" }, { "badget": "Fairtrade" }]
     },
     {
       "name": "Strawberry",
@@ -20,11 +15,9 @@
       "origin": "Spain",
       "season": "Spring",
       "badget": [
-        {
-          "bio": "Bio",
-          "fairtrade": "Fairtrade",
-          "sale": "Sale"
-        }
+        { "badget": "Bio" },
+        { "badget": "Fairtrade" },
+        { "badget": "Sale" }
       ]
     },
     {
@@ -33,12 +26,7 @@
       "price": "€8.00 kg",
       "origin": "Brazil",
       "season": "Summer",
-      "badget": [
-        {
-          "bio": "Bio",
-          "fairtrade": "Fairtrade"
-        }
-      ]
+      "badget": [{ "badget": "Bio" }, { "badget": "Fairtrade" }]
     },
     {
       "name": "Cherrie",
@@ -46,12 +34,7 @@
       "price": "€0.99 kg",
       "origin": "Germany",
       "season": "Summer",
-      "badget": [
-        {
-          "bio": "Bio",
-          "fairtrade": "Fairtrade"
-        }
-      ]
+      "badget": [{ "badget": "Bio" }, { "badget": "Fairtrade" }]
     },
     {
       "name": "Raspberry",
@@ -59,12 +42,7 @@
       "price": "€2.00 Unit",
       "origin": "Germany",
       "season": "Summer",
-      "badget": [
-        {
-          "bio": "Bio",
-          "fairtrade": "Fairtrade"
-        }
-      ]
+      "badget": [{ "badget": "Bio" }, { "badget": "Fairtrade" }]
     },
     {
       "name": "Peach",
@@ -72,11 +50,7 @@
       "price": "€2.00 kg",
       "origin": "Peru",
       "season": "Summer",
-      "badget": [
-        {
-          "bio": "Bio"
-        }
-      ]
+      "badget": [{ "badget": "Bio" }]
     },
     {
       "name": "Mango",
@@ -84,12 +58,7 @@
       "price": "€2.00 Unit",
       "origin": "Turkey",
       "season": "Summer",
-      "badget": [
-        {
-          "bio": "Bio",
-          "fairtrade": "Fairtrade"
-        }
-      ]
+      "badget": [{ "badget": "Bio" }, { "badget": "Fairtrade" }]
     },
     {
       "name": "Maracuja",
@@ -98,11 +67,9 @@
       "origin": "Spain",
       "season": "Spring",
       "badget": [
-        {
-          "bio": "Bio",
-          "fairtrade": "Fairtrade",
-          "sale": "Sale"
-        }
+        { "badget": "Bio" },
+        { "badget": "Fairtrade" },
+        { "badget": "Sale" }
       ]
     },
     {
@@ -111,12 +78,7 @@
       "price": "€1.50 kg",
       "origin": "Germany",
       "season": "Winter",
-      "badget": [
-        {
-          "bio": "Bio",
-          "fairtrade": "Fairtrade"
-        }
-      ]
+      "badget": [{ "badget": "Bio" }, { "badget": "Fairtrade" }]
     },
     {
       "name": "Mandarine",
@@ -124,12 +86,7 @@
       "price": "€0.99 kg",
       "origin": "Germany",
       "season": "Autumn",
-      "badget": [
-        {
-          "bio": "Bio",
-          "fairtrade": "Fairtrade"
-        }
-      ]
+      "badget": [{ "badget": "Bio" }, { "badget": "Fairtrade" }]
     },
     {
       "name": "Ananas",
@@ -138,10 +95,9 @@
       "origin": "Portugal",
       "season": "Autumn",
       "badget": [
-        {
-          "bio": "Bio",
-          "fairtrade": "Fairtrade"
-        }
+        { "badget": "Bio" },
+        { "badget": "Fairtrade" },
+        { "badget": "Sale" }
       ]
     },
     {
@@ -150,11 +106,7 @@
       "price": "€2.50 kg",
       "origin": "Germany",
       "season": "Winter",
-      "badget": [
-        {
-          "bio": "Bio"
-        }
-      ]
+      "badget": [{ "badget": "Bio" }]
     }
   ]
 }
