@@ -6,7 +6,11 @@
       "price": "€2.00 kg",
       "origin": "Brazil",
       "season": "Summer",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }],
+      "link": "/season/summer",
+      "badget": [
+        { "name": "Bio", "color": "#39BF99" },
+        { "name": "Fairtrade", "color": "#FADB00" }
+      ],
       "isActive": false
     },
     {
@@ -15,7 +19,12 @@
       "price": "€3.00 kg",
       "origin": "Spain",
       "season": "Spring",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }, { "name": "Sale", "color": "#FF0118" }],
+      "link": "/season/spring",
+      "badget": [
+        { "name": "Bio", "color": "#39BF99" },
+        { "name": "Fairtrade", "color": "#FADB00" },
+        { "name": "Sale", "color": "#FF0118" }
+      ],
       "isActive": false
     },
     {
@@ -24,7 +33,11 @@
       "price": "€8.00 kg",
       "origin": "Brazil",
       "season": "Summer",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }],
+      "link": "/season/summer",
+      "badget": [
+        { "name": "Bio", "color": "#39BF99" },
+        { "name": "Fairtrade", "color": "#FADB00" }
+      ],
       "isActive": false
     },
     {
@@ -33,7 +46,11 @@
       "price": "€0.99 kg",
       "origin": "Germany",
       "season": "Summer",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }],
+      "link": "/season/summer",
+      "badget": [
+        { "name": "Bio", "color": "#39BF99" },
+        { "name": "Fairtrade", "color": "#FADB00" }
+      ],
       "isActive": false
     },
     {
@@ -42,7 +59,11 @@
       "price": "€2.00 Unit",
       "origin": "Germany",
       "season": "Summer",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }],
+      "link": "/season/summer",
+      "badget": [
+        { "name": "Bio", "color": "#39BF99" },
+        { "name": "Fairtrade", "color": "#FADB00" }
+      ],
       "isActive": false
     },
     {
@@ -51,6 +72,7 @@
       "price": "€2.00 kg",
       "origin": "Peru",
       "season": "Summer",
+      "link": "/season/summer",
       "badget": [{ "name": "Bio", "color": "#39BF99" }],
       "isActive": false
     },
@@ -60,7 +82,11 @@
       "price": "€2.00 Unit",
       "origin": "Turkey",
       "season": "Summer",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }],
+      "link": "/season/summer",
+      "badget": [
+        { "name": "Bio", "color": "#39BF99" },
+        { "name": "Fairtrade", "color": "#FADB00" }
+      ],
       "isActive": false
     },
     {
@@ -69,7 +95,12 @@
       "price": "€3.00 kg",
       "origin": "Spain",
       "season": "Spring",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }, { "name": "Sale", "color": "#FF0118" }],
+      "link": "/season/spring",
+      "badget": [
+        { "name": "Bio", "color": "#39BF99" },
+        { "name": "Fairtrade", "color": "#FADB00" },
+        { "name": "Sale", "color": "#FF0118" }
+      ],
       "isActive": false
     },
     {
@@ -78,7 +109,11 @@
       "price": "€1.50 kg",
       "origin": "Germany",
       "season": "Winter",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }],
+      "link": "/season/winter",
+      "badget": [
+        { "name": "Bio", "color": "#39BF99" },
+        { "name": "Fairtrade", "color": "#FADB00" }
+      ],
       "isActive": false
     },
     {
@@ -87,7 +122,11 @@
       "price": "€0.99 kg",
       "origin": "Germany",
       "season": "Autumn",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }],
+      "link": "/season/autumn",
+      "badget": [
+        { "name": "Bio", "color": "#39BF99" },
+        { "name": "Fairtrade", "color": "#FADB00" }
+      ],
       "isActive": false
     },
     {
@@ -96,7 +135,12 @@
       "price": "€2.00 Unit",
       "origin": "Portugal",
       "season": "Autumn",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }, { "name": "Sale", "color": "#FF0118" }],
+      "link": "/season/autumn",
+      "badget": [
+        { "name": "Bio", "color": "#39BF99" },
+        { "name": "Fairtrade", "color": "#FADB00" },
+        { "name": "Sale", "color": "#FF0118" }
+      ],
       "isActive": false
     },
     {
@@ -105,6 +149,7 @@
       "price": "€2.50 kg",
       "origin": "Germany",
       "season": "Winter",
+      "link": "/season/winter",
       "badget": [{ "name": "Bio", "color": "#39BF99" }],
       "isActive": false
     }
