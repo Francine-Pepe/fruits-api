@@ -6,7 +6,8 @@
       "price": "€2.00 kg",
       "origin": "Brazil",
       "season": "Summer",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }]
+      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }],
+      "isActive": false
     },
     {
       "name": "Strawberry",
@@ -14,7 +15,8 @@
       "price": "€3.00 kg",
       "origin": "Spain",
       "season": "Spring",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }, { "name": "Sale", "color": "#FF0118" }]
+      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }, { "name": "Sale", "color": "#FF0118" }],
+      "isActive": false
     },
     {
       "name": "Papaya",
@@ -22,7 +24,8 @@
       "price": "€8.00 kg",
       "origin": "Brazil",
       "season": "Summer",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }]
+      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }],
+      "isActive": false
     },
     {
       "name": "Cherrie",
@@ -30,7 +33,8 @@
       "price": "€0.99 kg",
       "origin": "Germany",
       "season": "Summer",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }]
+      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }],
+      "isActive": false
     },
     {
       "name": "Raspberry",
@@ -38,7 +42,8 @@
       "price": "€2.00 Unit",
       "origin": "Germany",
       "season": "Summer",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }]
+      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }],
+      "isActive": false
     },
     {
       "name": "Peach",
@@ -46,7 +51,8 @@
       "price": "€2.00 kg",
       "origin": "Peru",
       "season": "Summer",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }]
+      "badget": [{ "name": "Bio", "color": "#39BF99" }],
+      "isActive": false
     },
     {
       "name": "Mango",
@@ -54,7 +60,8 @@
       "price": "€2.00 Unit",
       "origin": "Turkey",
       "season": "Summer",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }]
+      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }],
+      "isActive": false
     },
     {
       "name": "Maracuja",
@@ -62,7 +69,8 @@
       "price": "€3.00 kg",
       "origin": "Spain",
       "season": "Spring",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }, { "name": "Sale", "color": "#FF0118" }]
+      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }, { "name": "Sale", "color": "#FF0118" }],
+      "isActive": false
     },
     {
       "name": "Birne",
@@ -70,7 +78,8 @@
       "price": "€1.50 kg",
       "origin": "Germany",
       "season": "Winter",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }]
+      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }],
+      "isActive": false
     },
     {
       "name": "Mandarine",
@@ -78,7 +87,8 @@
       "price": "€0.99 kg",
       "origin": "Germany",
       "season": "Autumn",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }]
+      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }],
+      "isActive": false
     },
     {
       "name": "Ananas",
@@ -86,7 +96,8 @@
       "price": "€2.00 Unit",
       "origin": "Portugal",
       "season": "Autumn",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }, { "name": "Sale", "color": "#FF0118" }]
+      "badget": [{ "name": "Bio", "color": "#39BF99" }, { "name": "Fairtrade", "color": "#FADB00" }, { "name": "Sale", "color": "#FF0118" }],
+      "isActive": false
     },
     {
       "name": "Apple",
@@ -94,7 +105,8 @@
       "price": "€2.50 kg",
       "origin": "Germany",
       "season": "Winter",
-      "badget": [{ "name": "Bio", "color": "#39BF99" }]
+      "badget": [{ "name": "Bio", "color": "#39BF99" }],
+      "isActive": false
     }
   ]
 }
