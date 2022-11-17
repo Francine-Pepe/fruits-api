@@ -1,7 +1,7 @@
 {
   "fruits": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Banana",
       "image": "https://live.staticflickr.com/65535/52404278814_55b34ff31e_o.jpg",
       "price": "€2.00 kg",
@@ -15,7 +15,7 @@
       "isActive": false
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Strawberry",
       "image": "https://live.staticflickr.com/65535/52403484832_2560f287b0_o.jpg",
       "price": "€3.00 kg",
@@ -30,7 +30,7 @@
       "isActive": false
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Papaya",
       "image": "https://live.staticflickr.com/65535/52403484872_22ec5b1fac_o.jpg",
       "price": "€8.00 kg",
@@ -44,7 +44,7 @@
       "isActive": false
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Cherrie",
       "image": "https://live.staticflickr.com/65535/52404278779_94656222ed_o.jpg",
       "price": "€0.99 kg",
@@ -58,7 +58,7 @@
       "isActive": false
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Raspberry",
       "image": "https://live.staticflickr.com/65535/52404491763_7166c79e16_o.jpg",
       "price": "€2.00 Unit",
@@ -72,7 +72,7 @@
       "isActive": false
     },
     {
-      "id": "6",
+      "id": 6,
       "name": "Peach",
       "image": "https://live.staticflickr.com/65535/52404491793_08a2470178_o.jpg",
       "price": "€2.00 kg",
@@ -83,7 +83,7 @@
       "isActive": false
     },
     {
-      "id": "7",
+      "id": 7,
       "name": "Mango",
       "image": "https://live.staticflickr.com/65535/52404278734_fb6287e47f_o.jpg",
       "price": "€2.00 Unit",
@@ -97,7 +97,7 @@
       "isActive": false
     },
     {
-      "id": "8",
+      "id": 8,
       "name": "Maracuja",
       "image": "https://live.staticflickr.com/65535/52404278729_b87e4a1232_o.jpg",
       "price": "€3.00 kg",
@@ -112,7 +112,7 @@
       "isActive": false
     },
     {
-      "id": "9",
+      "id": 9,
       "name": "Birne",
       "image": "https://live.staticflickr.com/65535/52404426745_d0d0f3637f_o.jpg",
       "price": "€1.50 kg",
@@ -126,7 +126,7 @@
       "isActive": false
     },
     {
-      "id": "10",
+      "id": 10,
       "name": "Mandarine",
       "image": "https://live.staticflickr.com/65535/52403484922_401d39ec5f_o.jpg",
       "price": "€0.99 kg",
@@ -140,7 +140,7 @@
       "isActive": false
     },
     {
-      "id": "11",
+      "id": 11,
       "name": "Ananas",
       "image": "https://live.staticflickr.com/65535/52403992231_9266f8f2ca_o.jpg",
       "price": "€2.00 Unit",
@@ -155,7 +155,7 @@
       "isActive": false
     },
     {
-      "id": "12",
+      "id": 12,
       "name": "Apple",
       "image": "https://live.staticflickr.com/65535/52403485037_c6c071457c_o.jpg",
       "price": "€2.50 kg",
