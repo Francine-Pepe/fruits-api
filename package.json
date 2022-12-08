@@ -4,7 +4,9 @@
   "description": "Mockup API used on the \"Fruit at your door\" project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -18,5 +20,8 @@
   "homepage": "https://github.com/Francine-Pepe/fruits-api#readme",
   "dependencies": {
     "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
